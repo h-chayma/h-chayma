@@ -27,4 +27,4 @@
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/chayma-farhat)
-- [Gmail](chaymafarhat16@gmail.com)
+- Email: chaymafarhat16@gmail.com
