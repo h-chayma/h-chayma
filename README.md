@@ -88,4 +88,4 @@
 ---
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chaymafarhat) 
+[![Ba9chich](https://img.shields.io/badge/Ba9chich-%23FF8800?style=for-the-badge)](https://ba9chich.com/chaymafarhat)
