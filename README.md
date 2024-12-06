@@ -14,9 +14,9 @@
 ---
 
 ## 🚀 Featured Projects:
-- **[ZaynoutaShop](https://github.com/h-chayma/zaynoutaShop)**: An e-commerce site with a modern design using Next.js and TailwindCSS.
-- **[choufMovies](https://github.com/h-chayma/choufMovies)**: A movie streaming platform built with React and Firebase.
-- **[My Portfolio](https://h-chayma.github.io/portfolio/)**: My personal portfolio showcasing my skills, projects, and resume.
+- **[abdelaziz-elaroui-stories-api](https://github.com/h-chayma/abdelaziz-elaroui-stories-api)**: A RESTful API that shares captivating stories inspired by the legendary Tunisian writer Abdelaziz El Aroui. 📖✨
+- **[anime-detector](https://github.com/h-chayma/anime-detector)**: A fun tool to detect anime scences from images using AI—perfect for otakus! 🤖🎌
+- **[choufli-hal-quiz](https://h-chayma.github.io/choufli-hal-quiz)**: A nostalgic quiz game inspired by the iconic Tunisian sitcom Choufli Hal. Test your knowledge! 🎭🇹🇳
 
 ---
 
